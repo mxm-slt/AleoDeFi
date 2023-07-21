@@ -1,0 +1,10 @@
+{
+    "program": "concertrated_liquidity.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp8UnNzJ1eoKJodBxbHb7Wc4CHcpTQdFzf2tHK9rwN8bJ8",
+        "address": "aleo1wjgx0zehqrh9l7z5k927n9lje0unqtttxx5pgjxh8a36058p2qpqgzzawg"
+    },
+    "license": "MIT"
+}

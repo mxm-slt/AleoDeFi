@@ -1,0 +1,3 @@
+[mint]
+receiver: address = aleo1t0uer3jgtsgmx5tq6x6f9ecu8tr57rzzfnc2dgmcqldceal0ls9qf6st7a;
+amount: u64 = 100u64;

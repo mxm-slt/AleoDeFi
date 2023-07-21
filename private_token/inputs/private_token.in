@@ -1,0 +1,8 @@
+// The program input for private_token/src/main.leo
+[mint]
+receiver: address = aleo1ltyvpck0ycz89522zaejmdyye892ahy07xvrwkzntm4e6c93mg9sfu4n4h;
+amount: u64 = 1000u64;
+
+// [mint]
+// receiver: address = aleo1t0uer3jgtsgmx5tq6x6f9ecu8tr57rzzfnc2dgmcqldceal0ls9qf6st7a;
+// amount: u64 = 1234u64;
